@@ -1,0 +1,17 @@
+.portfolio__swiper {
+    width: 80%;
+}
+
+/* Media queries for medium devices (Tablets) */
+
+@media screen and (max-width: 1024px) {
+
+}
+
+/* Media queries for small devices (Phones) */
+@media screen and (max-width: 600px) {
+    .portfolio__swiper{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
